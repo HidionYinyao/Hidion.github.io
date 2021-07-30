@@ -5,7 +5,7 @@ YL.static = {
   iconBtnStart: 'html5', //主图标
   author: '白寒凌',//作者
   contactInformation: 'QQ：3416552352',//联系方式
-  officialWebsite: 'https://baixiaoxuang.github.io/',//软件官网
+  officialWebsite: 'https://baihanling.github.io/',//软件官网
   welcome: '本网站UI由 YLUI 强力驱动\n更多信息：//ylui.yuri2.cn',//加载完毕控制台提示信息
   copyrightDetail: '仅用于个人用户学习使用',//版权详细信息
   otherStatements: '',//其他信息（可留空）

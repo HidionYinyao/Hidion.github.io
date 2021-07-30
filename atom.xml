@@ -1,26 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>漓落</title>
+  <title>白寒凌</title>
   
-  <subtitle>漓落</subtitle>
-  <link href="https://baixiaoxuang.github.io/atom.xml" rel="self"/>
+  <subtitle>白寒凌</subtitle>
+  <link href="https://baihanling.github.io/atom.xml" rel="self"/>
   
-  <link href="https://baixiaoxuang.github.io/"/>
-  <updated>2021-07-29T09:37:48.000Z</updated>
-  <id>https://baixiaoxuang.github.io/</id>
+  <link href="https://baihanling.github.io/"/>
+  <updated>2021-07-29T09:45:46.000Z</updated>
+  <id>https://baihanling.github.io/</id>
   
   <author>
-    <name>漓落</name>
+    <name>白寒凌</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>hello-woeld</title>
+    <link href="https://baihanling.github.io/posts/a8bdb7ae.html"/>
+    <id>https://baihanling.github.io/posts/a8bdb7ae.html</id>
+    <published>2021-07-29T17:20:45.690Z</published>
+    <updated>2021-07-29T09:45:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://baihanling.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="博客" scheme="https://baihanling.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【漓落群聊及营地规则】</title>
-    <link href="https://baixiaoxuang.github.io/posts/679a0a99.html"/>
-    <id>https://baixiaoxuang.github.io/posts/679a0a99.html</id>
-    <published>2021-07-29T06:41:27.760Z</published>
+    <link href="https://baihanling.github.io/posts/679a0a99.html"/>
+    <id>https://baihanling.github.io/posts/679a0a99.html</id>
+    <published>2021-07-29T17:20:45.690Z</published>
     <updated>2021-07-29T09:37:48.000Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="规则通知"><a href="#规则通知" class="headerlink" title="规则通知"></a>规则通知</h1><p>规则仅供参考，具体情况由会长及管理通知为主</p><h2 id="群聊"><a href="#群聊" class="headerlink" title="群聊"></a>群聊</h2><p>本群允许各类聊天，主题必须健康。</p><p>聊天内容不得包含任何恶意人身攻击行为,在群里漫骂他人，出粗言者</p><p>本群不提倡政治话题出现，所有管理员均有权随时终止政治话题。</p><p>文明聊天，友善待人，懂得尊重他人以及自己.</p><p>群内未经管理员允许,不得擅自发布广告宣传，或不明链接(特别是带有病毒性的网站)</p><p>本群允许发图，图片内容健质，不得有反动、色惰等内容,不可恶意刷屏。</p><h2 id="营地"><a href="#营地" class="headerlink" title="营地"></a>营地</h2><p>营地规则：</p><p>1.每日日常活跃度必须到达100及100以上</p><p>2.每日营地活动必须上线，群里会发送该周的日常表</p><p>3.下线时间超过24小时，周日常活跃度不够，辐射岛积分不够等会进行不定期清除，特殊情况由会长和理事说明</p><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>感谢大家的支持和关注!</p>]]></content>
@@ -33,17 +57,17 @@
     
     
     
-    <category term="公会" scheme="https://baixiaoxuang.github.io/categories/%E5%85%AC%E4%BC%9A/"/>
+    <category term="公会" scheme="https://baihanling.github.io/categories/%E5%85%AC%E4%BC%9A/"/>
     
     
-    <category term="公会|规则" scheme="https://baixiaoxuang.github.io/tags/%E5%85%AC%E4%BC%9A-%E8%A7%84%E5%88%99/"/>
+    <category term="公会|规则" scheme="https://baihanling.github.io/tags/%E5%85%AC%E4%BC%9A-%E8%A7%84%E5%88%99/"/>
     
   </entry>
   
   <entry>
     <title>不删档测试</title>
-    <link href="https://baixiaoxuang.github.io/posts/d2a40ed8.html"/>
-    <id>https://baixiaoxuang.github.io/posts/d2a40ed8.html</id>
+    <link href="https://baihanling.github.io/posts/d2a40ed8.html"/>
+    <id>https://baihanling.github.io/posts/d2a40ed8.html</id>
     <published>2021-07-28T19:45:53.000Z</published>
     <updated>2021-07-29T09:29:04.000Z</updated>
     
@@ -57,34 +81,10 @@
     
     
     
-    <category term="公会" scheme="https://baixiaoxuang.github.io/categories/%E5%85%AC%E4%BC%9A/"/>
+    <category term="公会" scheme="https://baihanling.github.io/categories/%E5%85%AC%E4%BC%9A/"/>
     
     
-    <category term="发展" scheme="https://baixiaoxuang.github.io/tags/%E5%8F%91%E5%B1%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hello-woeld</title>
-    <link href="https://baixiaoxuang.github.io/posts/a8bdb7ae.html"/>
-    <id>https://baixiaoxuang.github.io/posts/a8bdb7ae.html</id>
-    <published>2021-07-28T17:43:43.490Z</published>
-    <updated>2021-07-29T09:45:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="博客" scheme="https://baixiaoxuang.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-    <category term="博客" scheme="https://baixiaoxuang.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="发展" scheme="https://baihanling.github.io/tags/%E5%8F%91%E5%B1%95/"/>
     
   </entry>
   

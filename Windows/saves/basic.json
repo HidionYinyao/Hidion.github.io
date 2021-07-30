@@ -220,7 +220,7 @@
             "desc": "个人博客",
             "icon": {
                 "type": "img",
-                "content": "https://z3.ax1x.com/2021/07/29/WHBU1O.jpg",
+                "content": "https://user-images.githubusercontent.com/87896211/127546785-398afe38-f9f7-4429-9097-1962177a33d9.jpg",
                 "bg": "#6b96cf"
             },
             "openMode": "normal",
@@ -241,7 +241,7 @@
                 "width": "x*0.8"
             },
             "title": "个人博客",
-            "url": "https://baixiaoxuang.github.io/",
+            "url": "https://baihanling.github.io/",
             "customTile": "",
             "urlRandomToken": true
         },
